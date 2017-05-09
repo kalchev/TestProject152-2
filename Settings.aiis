@@ -178,27 +178,21 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
-<<<<<<< HEAD
     "ProjectGuid": "24a718c0-caf4-404d-b914-997062f857db",
-    "SourceControlRepository": null,
-    "IsOnline": false,
-=======
-    "ProjectGuid": "50eda8ae-2d22-49cd-823a-59c1effa0300",
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/kalchev/TestProject151.git",
+        "RemotePath": "https://github.com/kalchev/TestProject152.git",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/kalchev/TestProject151.git"
+            "ServerName": "https://github.com/kalchev/TestProject152.git"
           }
         },
         "ServerType": 2
       }
     },
     "IsOnline": true,
->>>>>>> master
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
@@ -209,13 +203,8 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.1.116.0",
-<<<<<<< HEAD
     "Namespace": "TestProject152",
     "AssemblyName": "TestProject152",
-=======
-    "Namespace": "TestProject151",
-    "AssemblyName": "TestProject151",
->>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
